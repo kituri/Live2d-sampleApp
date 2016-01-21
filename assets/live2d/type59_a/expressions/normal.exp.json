@@ -1,0 +1,16 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":500,
+	"fade_out":500,
+	"params":[
+		{"id":"PARAM_ANGLE_Y","val":7.92},
+		{"id":"PARAM_ANGLE_Z","val":3.12,"def":15},
+		{"id":"PARAM_BROW_L_Y","val":0.2},
+		{"id":"PARAM_BROW_R_Y","val":-0.5},
+		{"id":"PARAM_BROW_L_X","val":0.26},
+		{"id":"PARAM_BROW_R_X","val":0.26},
+		{"id":"PARAM_BROW_L_ANGLE","val":-0.31},
+		{"id":"PARAM_MOUTH_FORM","val":-0.78,"def":-1},
+		{"id":"PARAM_MOUTH_OPEN_Y","val":0.34}
+	]
+}

@@ -1,0 +1,4 @@
+# Live2D Animator Motion Data
+$fps=4
+PARAM_ANGLE_X=0,-7.26,-19.17,-27.34,-30,-30,-30
+PARAM_BODY_ANGLE_X=0,-2.42,-6.39,-9.11,-10,-10,-10
